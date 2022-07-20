@@ -183,8 +183,8 @@ section{
 }
 
 .home .image img{
-   height: 55rem;
-   width: 40rem;
+   height: 45rem;
+   width: 45rem;
    padding:2rem;
    border:var(--border-bold);
 }
